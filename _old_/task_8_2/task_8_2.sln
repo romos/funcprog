@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "task_8_2", "task_8_2\task_8_2.cproj", "{14A915CE-8DC1-442E-A4B5-3B2D210499A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A915CE-8DC1-442E-A4B5-3B2D210499A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A915CE-8DC1-442E-A4B5-3B2D210499A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A915CE-8DC1-442E-A4B5-3B2D210499A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A915CE-8DC1-442E-A4B5-3B2D210499A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = task_8_2\task_8_2.cproj
+	EndGlobalSection
+EndGlobal

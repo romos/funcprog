@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_26_1", "task_26_1\task_26_1.csproj", "{FD75E5DE-60BF-403D-89CC-BF66B62C889C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD75E5DE-60BF-403D-89CC-BF66B62C889C}.Debug|x86.ActiveCfg = Debug|x86
+		{FD75E5DE-60BF-403D-89CC-BF66B62C889C}.Debug|x86.Build.0 = Debug|x86
+		{FD75E5DE-60BF-403D-89CC-BF66B62C889C}.Release|x86.ActiveCfg = Release|x86
+		{FD75E5DE-60BF-403D-89CC-BF66B62C889C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = task_26_1\task_26_1.csproj
+	EndGlobalSection
+EndGlobal

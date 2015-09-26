@@ -1,0 +1,6 @@
+C:\MyTestProjects\funcprog\5-1. Integral_Approximate_Solution\FuncIntegral\FuncIntegral\bin\Debug\FuncIntegral.exe.config
+C:\MyTestProjects\funcprog\5-1. Integral_Approximate_Solution\FuncIntegral\FuncIntegral\bin\Debug\FuncIntegral.exe
+C:\MyTestProjects\funcprog\5-1. Integral_Approximate_Solution\FuncIntegral\FuncIntegral\bin\Debug\FuncIntegral.pdb
+C:\MyTestProjects\funcprog\5-1. Integral_Approximate_Solution\FuncIntegral\FuncIntegral\obj\Debug\FuncIntegral.csprojResolveAssemblyReference.cache
+C:\MyTestProjects\funcprog\5-1. Integral_Approximate_Solution\FuncIntegral\FuncIntegral\obj\Debug\FuncIntegral.exe
+C:\MyTestProjects\funcprog\5-1. Integral_Approximate_Solution\FuncIntegral\FuncIntegral\obj\Debug\FuncIntegral.pdb

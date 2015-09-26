@@ -1,0 +1,6 @@
+C:\MyTestProjects\funcprog\26_2\26_2\26_2\bin\Debug\26_2.exe.config
+C:\MyTestProjects\funcprog\26_2\26_2\26_2\bin\Debug\26_2.exe
+C:\MyTestProjects\funcprog\26_2\26_2\26_2\bin\Debug\26_2.pdb
+C:\MyTestProjects\funcprog\26_2\26_2\26_2\obj\Debug\26_2.csprojResolveAssemblyReference.cache
+C:\MyTestProjects\funcprog\26_2\26_2\26_2\obj\Debug\26_2.exe
+C:\MyTestProjects\funcprog\26_2\26_2\26_2\obj\Debug\26_2.pdb

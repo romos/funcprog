@@ -1,0 +1,6 @@
+C:\MyTestProjects\funcprog\8_1\8_1\8_1\bin\Debug\8_1.exe.config
+C:\MyTestProjects\funcprog\8_1\8_1\8_1\bin\Debug\8_1.exe
+C:\MyTestProjects\funcprog\8_1\8_1\8_1\bin\Debug\8_1.pdb
+C:\MyTestProjects\funcprog\8_1\8_1\8_1\obj\Debug\8_1.csprojResolveAssemblyReference.cache
+C:\MyTestProjects\funcprog\8_1\8_1\8_1\obj\Debug\8_1.exe
+C:\MyTestProjects\funcprog\8_1\8_1\8_1\obj\Debug\8_1.pdb
